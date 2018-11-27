@@ -1,0 +1,9 @@
+- Especially in today's world of Amazon's 2 day delivery, effective and efficient transportation of goods is v important
+- Need methods of organizing and coordinating fleets of commercial transport
+- We will be focussing on the application to road traffic, but could also extend application to air traffic, etc. in the future
+
+- Use of multi agent systems could be used to shorten transportation times, reduce gas costs, and make it easier on transport drivers
+- We will focus on the formation and maintenance of fleets of commercial transport such that the travel time is minimized
+
+- Much research has been done on the subject of regulating traffic flow, because as these fields become increasingly dynamic it has become necessary
+- The agents here would be the transports, but it is worth investigating the benefits of having a "leader" vs. having each agent be equal in influence
